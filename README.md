@@ -1,13 +1,41 @@
-nest generate module basics
-nest generate controller basics
-nest generate service basics
+GIT_SSH_COMMAND='ssh -i ~/.ssh/github_deploy' git clone https://github.com/AlexMa77/posts_api.git
 
-Código app-mail:
-mveo zxbu dhwv jejy
+cd repositorio
 
-Código SendGrid:
-X4TC9JLBJGVZE8B75FW9QNSZ
+https://github.com/AlexMa77/posts_api.git
 
-4X6AJEMB1FDPHJG9NVQQ4XSM
 
-QV62SDECXU1B2EE1M5ARGTS9
+ssh-keygen -t ed25519 -C "github-deploy" -f ~/.ssh/github_deploy    
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEQytfPBTM4k1GgO2QQuwnMtyarkzT8mEzakdlbf7Hbt github-deploy
+
+
+
+
+
+
+
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICUi3yvFY1S+ZD7FIPj/a1lBmvmqn+yuWLqGSezHa60x gh-actions-root
+
+CI/CD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
